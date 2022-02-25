@@ -28,3 +28,6 @@ Hi! I'm Devisha, I'm a 15 year old programmer who codes for fun.
 - Continuous Integration / Continuous Deployment
   - I am very familiar with the Syntax of GitLab's CI/CD Pipelines and GitHub's Actions.
   - I have CI/CD Scripts for almost all of my repositories (private and public)
+
+#### Metrics
+![Metrics](/github-metrics.svg)
