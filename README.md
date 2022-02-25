@@ -2,7 +2,6 @@
 Hi! I'm Devisha, I'm a 15 year old programmer who codes for fun.
 
 # Programming Languages
-
 <p style="float: left">
   <img src="./icons/python-original.svg" width="50">
   <img src="./icons/java-original.svg" width="50">
@@ -13,8 +12,7 @@ Hi! I'm Devisha, I'm a 15 year old programmer who codes for fun.
   <img src="./icons/c-original.svg" width="50">
   <img src="./icons/html5-original.svg" width="50">
   <img src="./icons/css3-original.svg" width="50">
-</p>
-<br><br><br>
+</p><br>
 
 # Other Technology Related Skills
 - Database Management
