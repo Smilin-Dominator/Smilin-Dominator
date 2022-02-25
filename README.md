@@ -1,16 +1,22 @@
-### Devisha Padmaperuma (aka. Smilin' Dominator)
+# Devisha Padmaperuma (aka. Smilin' Dominator)
 Hi! I'm Devisha, I'm a 15 year old programmer who codes for fun.
 
-#### Languages I Know
-- Python
-- Java
-- C and C++
-- GoLang
-- Dart (Flutter)
-- HTML and CSS
-- JavaScript
+# Programming Languages
 
-#### Other Tech Skills
+<p style="float: left">
+  <img src="./icons/python-original.svg" width="50">
+  <img src="./icons/java-original.svg" width="50">
+  <img src="./icons/typescript-original.svg" width="50">
+  <img src="./icons/javascript-original.svg" width="50">
+  <img src="./icons/go-original-wordmark.svg" width="50">
+  <img src="./icons/cplusplus-original.svg" width="50">
+  <img src="./icons/c-original.svg" width="50">
+  <img src="./icons/html5-original.svg" width="50">
+  <img src="./icons/css3-original.svg" width="50">
+</p>
+<br><br><br>
+
+# Other Technology Related Skills
 - Database Management
   - I can administrate SQL (MariaDB, MySQL and PostgreSQL) and NoSQL (MongoDB, Redis) Databases.
 - Docker
