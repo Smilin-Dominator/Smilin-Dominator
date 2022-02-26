@@ -55,7 +55,7 @@
 <p align="left">
   <img src="icons/windows8-original.svg" width="50">
   <img src="icons/apple-original.svg" width="50">
-  <img src="icons/linux-original.svg" width="50">
+  <img src="icons/archlinux-icon.svg" width="50">
 </p>
 
 ## Continuous Integration / Continuous Deployment
