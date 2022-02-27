@@ -18,6 +18,7 @@
 <p align="left">
   <img src="./icons/typescript-original.svg" width="50">
   <img src="./icons/javascript-original.svg" width="50">
+  <img src="./icons/flutter-original.svg" width="50">
 </p>
 
 
@@ -27,6 +28,7 @@
 <p align="left">
   <img src="./icons/fastapi-1.svg" width="50">
   <img src="./icons/flask-original.svg" width="50">
+  <img src="./icons/bootstrap-original.svg" width="50">
 </p>
 
 #### Learning
