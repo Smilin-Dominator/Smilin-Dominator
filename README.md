@@ -26,11 +26,12 @@
 
 #### Learned
 <p align="left">
+  <img src="./icons/angularjs-original.svg" width="50">
+  <img src="./icons/express-original.svg" width="50">
+  <img src="./icons/spring-original.svg" width="50">
   <img src="./icons/fastapi-1.svg" width="50">
   <img src="./icons/flask-original.svg" width="50">
   <img src="./icons/bootstrap-original.svg" width="50">
-  <img src="./icons/angularjs-original.svg" width="50">
-  <img src="./icons/express-original.svg" width="50">
 </p>
 
 #### Learning
@@ -58,6 +59,7 @@
   <img src="icons/windows8-original.svg" width="50">
   <img src="icons/apple-original.svg" width="50">
   <img src="icons/archlinux-icon.svg" width="50">
+  <img src="icons/gentoo-plain.svg" width="50">
 </p>
 
 ## Continuous Integration / Continuous Deployment
